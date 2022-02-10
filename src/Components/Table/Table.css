@@ -1,0 +1,36 @@
+.footer{
+    display: flex;
+    padding:2px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color:blue;
+    
+}
+.tableStyle{
+border: 1px solid rgb(90, 107, 139);
+
+width :100%;
+text-align:center
+}
+.tdStyle {
+  border: 1px solid rgb(90, 107, 139);
+  font-size: 18px;
+  font-style: bold;
+  color: blue;
+ padding: 5px;
+ animation: blink 2s linear infinite;
+}
+@keyframes blink{
+  0% {opacity:0 ;}
+  50%{opacity: .5;}
+  100%{opacity: 1;}
+}
+.thStyle  {
+  border: 1px solid rgb(90, 107, 139);
+    color: 'blue';
+    font-weight: bold;
+    padding: 5px;
+    font-size: larger;
+}

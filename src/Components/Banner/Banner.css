@@ -1,0 +1,39 @@
+.banner{
+  
+    position: fixed;
+    margin: 0;
+    padding:0;
+    color: cornsilk;
+    
+    height: 100vh;
+    
+    display: flex;
+    flex-direction: row;
+}
+.posters{
+  box-shadow: antiquewhite;
+    display: flex;
+    margin: 0;
+    padding: 21px;
+     width:50vw;
+   
+    position: relative;
+  
+}
+.slide{
+  width:50px
+  
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+

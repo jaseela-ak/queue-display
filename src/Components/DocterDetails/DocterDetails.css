@@ -1,0 +1,48 @@
+.Details{
+    
+    margin: 0;
+    padding: 0;
+    border: 1px solid rgb(142, 142, 155);
+    background-image: 56565;
+    justify-content: space-around;
+    width: 502px;
+    margin-left: 39px;
+    margin-top: 10px;
+    box-shadow: 0px 4px 3px #0000;
+    
+}
+.name{
+    font-size: 30px;
+    color:blue;
+    width: 20px;
+    margin-left: 208px;
+
+}
+.react-Slidy--fullWidth > div li img {
+    width:100px;
+    margin-left: 1px;
+}
+   .image{
+
+    
+    border-radius: 50%;
+    width: 200px;
+    display: flex;
+
+    
+}
+ul{
+    display: grid;
+    
+}
+li{
+    font-size: 18px;
+    color: blue;
+    display: flex;
+    
+    margin-left: 13px;
+}
+
+.react-Slidy--fullWidth > div li img {
+    width: 35%;
+}
